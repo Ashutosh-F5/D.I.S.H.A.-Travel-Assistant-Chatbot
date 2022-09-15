@@ -1,0 +1,2 @@
+# D.I.S.H.A.-Travel-Assistant-Chatbot
+Travel Assistant Chatbot is computer application that interacts with users using natural language in a similar way to imitate a human travel agent.The objective of our project is to develop a chatbot using NLP which can assist the people easily and provide all the necessary details.We have used Rasa Open Source ML framework to build our chatbot and integrated with web interface for end users.
