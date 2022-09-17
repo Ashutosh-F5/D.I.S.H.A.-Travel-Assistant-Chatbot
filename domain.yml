@@ -31,6 +31,7 @@ intents:
   - book_raigad
   - book_kolhapur
   - book_tickets
+  - thanks
   
 responses:
   utter_greet:
@@ -294,6 +295,9 @@ responses:
 
   utter_happy:
   - text: "Great, carry on!"
+  
+  utter_thanks:
+  - text: "I am glad to help you.\nHave a great day!"
 
   utter_goodbye:
   - text: "Bye👋"
