@@ -242,6 +242,14 @@ nlu:
     - Confirm my tickets
     - Get me tickets
     
+- intent: thanks
+  examples: |
+    - Thanks for your help
+    - Amazing!
+    - Thankyou
+    - that's great
+    - you're great
+    
 
     
     
