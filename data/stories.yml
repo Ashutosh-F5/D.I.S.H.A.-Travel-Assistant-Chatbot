@@ -146,6 +146,11 @@ stories:
   steps:
   - intent: book_tickets
   - action: utter_book_tickets
+  
+- story: thanks path
+  steps:
+  - intent: thanks
+  - action: utter_thanks
 
 - story: sad path 1
   steps:  
