@@ -32,10 +32,14 @@ intents:
   - book_kolhapur
   - book_tickets
   - thanks
+  - out_of_scope
   
 responses:
   utter_greet:
   - text: "Hello! I am D.I.S.H.A.🌎 Your travel assistant for Maharashtra!! \nHow can I help you today?"
+
+  utter_greet_two:
+  - text: "🧳Plan my trip\n🏨Book hotels\n🎫Book tickets"
 
   utter_plan_cities:
   - text: "There are quite attractive tourist places in Maharashtra.\nWhich city you would like to visit? \n◼️Aurangabad \n◼️Nashik \n◼️Pune \n◼️Mumbai \n◼️Ratnagiri \n◼️Nagpur \n◼️Amravati \n◼️Sindhudurg \n◼️Raigad \n◼️Kolhapur"
@@ -304,9 +308,12 @@ responses:
 
   utter_goodbye_two:
   - text: "Before you leave,We would like to hear your thoughts 👉[Click Here!](https://forms.gle/QYYuFSZcEuinGeBv9)"
-
+  
+  utter_out_of_scope:
+  - text: "Sorry, I can't handle that request.I can only assist you with travel and tourism."
+  
   utter_iamabot:
-  - text: "I am a bot🤖, powered by Rasa."
+  - text: "I am D.I.S.H.A.🤖 Your virtual assistant for travel and tourism."
 
 
        
