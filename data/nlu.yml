@@ -92,6 +92,8 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - what is your name?
+    - who are you?
 
 - intent: plan_cities 
   examples: |
@@ -249,6 +251,19 @@ nlu:
     - Thankyou
     - that's great
     - you're great
+    
+- intent: out_of_scope
+  examples: |
+    - capital
+    - joke
+    - president
+    - restaurents
+    - food
+    - shopping malls
+    - bank
+    - ATM
+    - hospitals
+    - police station
     
 
     
