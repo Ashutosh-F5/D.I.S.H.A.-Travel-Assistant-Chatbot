@@ -18,6 +18,7 @@ the tourists to find the tourist attractions in Maharashtra and help with the re
 details of the locations,book hotels and book tickets etc.
 
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFW5frQF-UY08q3JOH0nBnDHJKoTPNVQunL392iehVg&s)
+
 ## Features of RASA
 - Compatible with cloud platforms
 - Highly Customizable
