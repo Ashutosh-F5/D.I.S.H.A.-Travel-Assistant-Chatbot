@@ -22,6 +22,11 @@ details of the locations,book hotels and book tickets etc.
 
 **Server:** Python, Rasa Machine Learning Framework
 
+## Best Configuration
+We compared two different pipeline configurations: default configuration, customized configuration.In each case we’re training a DIETClassifier for combined intent classification and entity recognition for 100 epochs and 500 epochs respectively, but in the default configuration we have CountVectorsFeaturizer, which creates bag-of-word representations for each incoming message at word and character levels. In the end, we decided to use default model as the ideal configuration of the chatbot.
+
+## Results
+![Config results](https://user-images.githubusercontent.com/72243918/193466244-51711bcb-fb01-4712-a7ae-1e79798bdd5b.png)
 
 ## Demo
 
