@@ -1,14 +1,6 @@
 
 # Chatbot for Travel and Tourism
 
-Tourists have to spend a lot of time searching for the appropriate hotels,restaurants,and
-places to visit. They face problems due to scattered data on websites and unable to find
-user-friendly interfaces. The objective of our project is to develop a chatbot which can assist
-the people easily and provide all the necessary details. The travel bot interacts with the
-users and helps them with the required details. We have used the Rasa Open Source
-Machine Learning framework to build our chatbot and integrated it with a web interface for
-end users.
-
 Chatbots are programs that simulate human conversation. These can range from
 simple rule-based chatbots, where the user is limited to clicking on buttons or suggested
 replies that the bot provides, all the way to fully-fledged bots that can handle context,
