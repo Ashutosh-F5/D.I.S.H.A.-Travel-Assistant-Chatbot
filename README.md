@@ -37,8 +37,6 @@ We compared two different pipeline configurations: default configuration, custom
 <p align="left">
 <a href="https://twitter.com/ashutosh_a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh_a5" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashutosh-kadam-qwerty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh kadam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010872071532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashutosh kadam" height="30" width="40" /></a>
-<a href="https://instagram.com/__ashutosh_kadam__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ashutosh_kadam__" height="30" width="40" /></a>
 </p>
 
 
