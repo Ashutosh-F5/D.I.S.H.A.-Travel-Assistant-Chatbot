@@ -17,10 +17,15 @@ details of the locations,book hotels and book tickets etc.
 - Integrate with popular social media channels
 
 ## Tech Stack
+**IDE:** Visual Studio Code
 
 **Client:** HTML
 
 **Server:** Python, Rasa Machine Learning Framework
+
+**Database:** Sqlite
+
+**Operating System:** Microsoft Windows
 
 ## Best Configuration
 We compared two different pipeline configurations: default configuration, customized configuration.In each case we’re training a DIETClassifier for combined intent classification and entity recognition for 100 epochs and 500 epochs respectively, but in the default configuration we have CountVectorsFeaturizer, which creates bag-of-word representations for each incoming message at word and character levels. In the end, we decided to use default model as the ideal configuration of the chatbot.
